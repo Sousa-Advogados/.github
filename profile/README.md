@@ -8,6 +8,6 @@ Simulador de aposentadoria, automação de rotina jurídica, edição de vídeo 
 
 Nosso time mistura Direito e código. Se você também acha que dá pra fazer advocacia de um jeito melhor com tecnologia, puxa uma cadeira.
 
-**Aqui Transformudamos Vidas — com tecnologia.**
+**Aqui Transformudamos Vidas com tecnologia.**
 
 [sousaadvogados.adv.br](https://sousaadvogados.adv.br) · [Instagram](https://instagram.com/sousaadvogados) · [YouTube](https://youtube.com/@sousaadvogados)
