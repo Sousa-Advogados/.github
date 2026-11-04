@@ -1,24 +1,13 @@
 # Sousa Advogados
 
-**Em busca da próxima fase: IA, automação e ferramentas open source aplicadas ao Direito.**
+Escritório de advocacia que leva tecnologia a sério.
 
-Somos um escritório de advocacia especializado em Direito Previdenciário, Trabalhista e de Servidores Públicos — e acreditamos que tecnologia transforma a prática jurídica.
+Atuamos em Direito Previdenciário, Trabalhista e de Servidores Públicos. Mas o que nos trouxe pro GitHub é outra coisa: a gente constrói as próprias ferramentas.
 
-## O que fazemos aqui
+Simulador de aposentadoria, automação de rotina jurídica, edição de vídeo por código, agentes de IA no atendimento — tudo nasceu de necessidade real, não de hype. Quando algo resolve nosso problema, a gente abre pra comunidade.
 
-Construímos ferramentas que resolvem problemas reais do dia a dia jurídico. Algumas delas serão abertas para a comunidade.
+Nosso time mistura Direito e código. Se você também acha que dá pra fazer advocacia de um jeito melhor com tecnologia, puxa uma cadeira.
 
-- **Simuladores** — ferramentas interativas para cálculos previdenciários
-- **Automação** — pipelines de conteúdo, analytics e operações
-- **IA aplicada** — agentes inteligentes para atendimento e análise jurídica
-- **Vídeo** — edição automatizada com composições programáticas
+**Aqui Transformudamos Vidas — com tecnologia.**
 
-## Links
-
-- [sousaadvogados.adv.br](https://sousaadvogados.adv.br)
-- [Instagram @sousaadvogados](https://instagram.com/sousaadvogados)
-- [YouTube](https://youtube.com/@sousaadvogados)
-
----
-
-*Aqui Transformudamos Vidas.*
+[sousaadvogados.adv.br](https://sousaadvogados.adv.br) · [Instagram](https://instagram.com/sousaadvogados) · [YouTube](https://youtube.com/@sousaadvogados)
